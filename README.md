@@ -3,13 +3,13 @@
   
   Изначально в HTML есть разметка:
   
-  <div class="stopwatch">
+<div class="stopwatch">
     <p class="time js-time">00:00.0</p>
     <button class="btn js-start">Start</button>
     <button class="btn js-take-lap">Lap</button>
     <button class="btn js-reset">Reset</button>
-  </div>
-  <ul class="laps js-laps"></ul>
+</div>
+<ul class="laps js-laps"></ul>
   
   Добавьте следующий функционал:
   
